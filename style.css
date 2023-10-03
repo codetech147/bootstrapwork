@@ -1,0 +1,94 @@
+.Container-md {
+    background-color: rgb(141, 168, 231);
+    height: 50px;
+}
+
+
+
+.row {
+    border: 2px;
+}
+
+.col-9 {
+    border: 2px solid yellow;
+    background-color: lightcoral;
+
+}
+
+input {
+    float: left;
+    width: 800px;
+    height: 50px;
+}
+
+span {
+    background-color: cadetblue;
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: italic;
+    width: 100px;
+    height: 20px;
+}
+
+.div1 {
+    top: 500px;
+    left: 100px;
+}
+
+.iconbutton {
+    top: 500px;
+    right: 10px;
+    width: 50px;
+    height: 40px;
+    /* background-color: fuchsia; */
+}
+
+img {
+    height: 30px;
+    width: 40px;
+}
+
+.btn {
+    left: 400px;
+
+}
+
+.badge,
+span1 {
+    top: 250px;
+    left: 700px;
+}
+
+button1 {
+    top: 100px;
+    left: 600px;
+
+}
+
+button2 {
+    top: 700px;
+}
+
+.div3 {
+
+    bottom: 200px;
+
+}
+
+.container4 {
+
+    top: 800px;
+    left: 100px;
+}
+
+
+
+.incrementimg {
+    height: 20px;
+    width: 20px;
+}
+
+.container5 {
+    top: 900px;
+
+}

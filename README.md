@@ -1,2 +1,2 @@
-# bootstrapwork
+# bootstrapexample
 single web page
